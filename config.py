@@ -32,7 +32,7 @@ HEROKU_API_KEY = getenv("HEROKU_API_KEY")
 
 UPSTREAM_REPO = getenv(
     "UPSTREAM_REPO",
-    "https://github.com/AnonymousX1025/AnonXMusic",
+    "https://github.com/GOVIND-BOTS/kavyaxmusic",
 )
 UPSTREAM_BRANCH = getenv("UPSTREAM_BRANCH", "master")
 GIT_TOKEN = getenv(
@@ -62,7 +62,7 @@ TG_VIDEO_FILESIZE_LIMIT = int(getenv("TG_VIDEO_FILESIZE_LIMIT", 1073741824))
 
 
 # Get your pyrogram v2 session from @StringFatherBot on Telegram
-STRING1 = getenv("STRING_SESSION", None)
+STRING1 = getenv("STRING_SESSION", "BQDNvmIAtGzC1yEf3jNt_6ZrGAukssAGQklXXU6NrXeIoPukRt_z-qcJEioZz06qRAqJy4UsmTsTMobAd6KZSLQjprHa02Oh9-URlUUInoLs6hlvMusyL0T-V8jiAwG-cTJUpZodYjUH2gh8y-mqm04LdaF3HdxUvodZ3ExGpmOqKTs9tqlVslWpVBn-UipYXoQ3WelYaNKMT9R8qbMnjjp1ce5ZDauJP5eAsJV0znGM73FNrTuhZropyie1O-E5_a7Y3o6hGwIYOA4-uauXROBHzLMMotQ2zuorFXeyrt99kn_YQdA89pzKlZWRJLi6bR-OVbFnihdxX5gxzFxfyuBpFbTN-QAAAAFsm74HAA")
 STRING2 = getenv("STRING_SESSION2", None)
 STRING3 = getenv("STRING_SESSION3", None)
 STRING4 = getenv("STRING_SESSION4", None)
